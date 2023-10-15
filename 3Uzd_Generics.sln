@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Uzd_Generics", "3Uzd_Generics\3Uzd_Generics.csproj", "{8C3E625A-1526-4B6D-BA59-64CBBEE25778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3E625A-1526-4B6D-BA59-64CBBEE25778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3E625A-1526-4B6D-BA59-64CBBEE25778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3E625A-1526-4B6D-BA59-64CBBEE25778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3E625A-1526-4B6D-BA59-64CBBEE25778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94FADA5-DE24-4A75-BA46-343BCF3BE587}
+	EndGlobalSection
+EndGlobal
